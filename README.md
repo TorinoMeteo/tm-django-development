@@ -1,0 +1,3 @@
+# Django development
+
+... to be continued ...
