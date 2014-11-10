@@ -1,8 +1,8 @@
 # Environment
 
-## Tool principali di sviluppo
+## Tools principali di sviluppo
 
-La tecnologia utilizzata include i seguienti attori principali:
+La tecnologia utilizzata include i seguenti attori principali:
 
 - python 2.7
 - virtualenv
@@ -13,7 +13,7 @@ La tecnologia utilizzata include i seguienti attori principali:
 - git
 
 ### virtualenv
-Serve ad isolare una installazione di pacchetty python relativi ad un progetto, in modo da renderlo facilmente trasportabile da un sistema all'altro e molto più facilmente controllabile
+Serve ad isolare una installazione di pacchetti python relativi ad un progetto, in modo da renderlo facilmente trasportabile da un sistema all'altro e molto più facilmente controllabile
 
 Un nuovo vitualenv si crea e attiva in questo modo:
 
